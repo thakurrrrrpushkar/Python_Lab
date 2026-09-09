@@ -20,5 +20,4 @@
 ![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)
 
 <h2>Python Projects:</h2>
-<h4>Project 1: TBN</h4>
-<h4>Project 2: TBN</h4>
+<h4>Experiment 1: Basic data types and operators: Create a program that prompts the user for their name and age and prints a personalised message.</h4>
