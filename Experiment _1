@@ -1,0 +1,42 @@
+#Q1
+age = int(input("Enter your age: "))
+name = input("Enter your name: ")
+print("Your name is:",name)
+print("Your age is:",age)
+print()
+#Q2
+age = int(input("Enter your age: "))
+if age >= 18:
+    print("You are eligible to vote!")
+else:
+    print("You aren't eligible to vote.")
+print()
+#Q3
+x = int(input("Enter a number to find its factorial: "))
+factorial = 1
+for j in range(1, x+1):
+    factorial *= j
+print("The factorial is:",factorial)
+print()
+#Q4
+l = []
+while True:
+    n = int(input("Enter a number: "))
+    l.append(n)
+    ch = input("Do you want to continue? (Y/N): ")
+    if ch in 'Nn':
+        break
+print(sorted(l))
+print()
+#Q5
+string = input("Enter a string to reverse it: ")
+string[::-1]
+print()
+#Q6
+import math
+def AreaCircle(rad):
+    ar = math.pi * rad * rad
+    return ar
+r = int(input("Enter the radius of the circle: "))
+a = AreaCircle(r)
+print("The area of the circle is: ", a)
