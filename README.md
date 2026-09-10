@@ -21,3 +21,9 @@
 
 <h2>Python Projects:</h2>
 <h4>Experiment 1: Basic data types and operators: Create a program that prompts the user for their name and age and prints a personalised message.</h4>
+<h4>Experiment 2: Conditional Statements: Create a program that prompts the user for their age and tells them if they can vote in the next election.</h4>
+<h4>Experiment 3: Loops: Create a program that calculates the factorial of a number entered by the user using a loop.</h4>
+<h4>Experiment 4: Lists and Arrays: Create a program that prompts the user for a list of numbers and then osrts them in ascending order.</h4>
+<h4>Experiment 5: Strings and String Manipulation: Create a program that prompts the user for a string and age and prints out the string reversed.</h4>
+<h4>Experiment 6: Functions: Create a program that defines a function to calculate the area based on the radius entered by the user.</h4>
+<h4>Experiment 7: Classes and Objects: Create a program that defines a class to represent a car and then creates an object of that class with specific attributes.</h4>
