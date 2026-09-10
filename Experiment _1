@@ -48,3 +48,21 @@ print("The area of the circle is: ", a)
 print()
 
 #E7
+class Car:
+    def __init__(self, make, model, year, colour):
+        self.make = make
+        self.model = model
+        self.year = year
+        self.colour = colour
+C1 = Car("Aston Martini","DB12 Volante", 2023,"Silver")
+C2 = Car("Morris Garages", "Windsor", 2024, "Black")
+print(C1.make)
+print(C1.model)
+print(C1.year)
+print(C1.colour)
+print(C2.make)
+print(C2.model)
+print(C2.year)
+print(C2.colour)
+
+#E8
